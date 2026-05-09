@@ -1,5 +1,6 @@
 # About Me:
-Hi! I am a Software Engineering student with a passion for web development and React. I love building intuitive, efficient web applications and exploring new technologies.<br> Email me at muhammadshumail201@gmail.com. Always up for a chat about tech or collaboration!
+Hi! I am a Software Engineering student with a passion for building full-stack applications and standalone products using technologies like Next.js and Django. I love creating intuitive, efficient solutions and exploring new technologies.<br> Email me at muhammadshumail201@gmail.com
+. Always up for a chat about tech or collaboration!
 
 
 ## 🌐 Socials:
