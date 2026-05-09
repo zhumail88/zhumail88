@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi! I'm a 5th-semester Software Engineering student with a passion for web development and React. I love building intuitive, efficient web applications and exploring new technologies.<br>🚀 I'm developing a task management app focused on dynamic task handling and component-based architecture in React.<br>📫 Email me at muhammadshumail201@gmail.com. Always up for a chat about tech or collaboration!
+# About Me:
+Hi! I am a Software Engineering student with a passion for web development and React. I love building intuitive, efficient web applications and exploring new technologies.<br> Email me at muhammadshumail201@gmail.com. Always up for a chat about tech or collaboration!
 
 
 ## 🌐 Socials:
